@@ -1,0 +1,3 @@
+id;addr
+0;Itälahdenkatu 5, 00210 Helsinki, Finlandia
+1;Raitamäenkuja 3, 00950 Helsinki, Finlandia
